@@ -1,0 +1,32 @@
+Ballito#The Capital#17.3
+Ballito#Regal Inn#11.5
+Ballito#Sala Beach House#11.6
+Ballito#Canelands Beach Club#8.4
+Ballito#Beira Alta#11.5
+Ballito#John Dory's#11.1
+Ballito#Lupa Osteria#11.5
+Ballito#Nando's Drive Thru#11.5
+Umhlanga#The Capital#37.6
+Umhlanga#Regal Inn#31.8
+Umhlanga#Sala Beach House#35.9
+Umhlanga#Canelands Beach Club#38
+Umhlanga#Beira Alta#31.8
+Umhlanga#John Dory's#31.3
+Umhlanga#Lupa Osteria#31.8
+Umhlanga#Nando's Drive Thru#31.8
+Durban#The Capital#51.7
+Durban#Regal Inn#45.9
+Durban#Sala Beach House#50.1
+Durban#Canelands Beach Club#52.2
+Durban#Beira Alta#45.9
+Durban#John Dory's#45.5
+Durban#Lupa Osteria#45.9
+Durban#Nando's Drive Thru#45.9
+La Lucia#The Capital#39.1
+La Lucia#Regal Inn#33.3
+La Lucia#Sala Beach House#37.4
+La Lucia#Canelands Beach Club#39.5
+La Lucia#Beira Alta#33.3
+La Lucia#John Dory's#32.8
+La Lucia#Lupa Osteria#33.3
+La Lucia#Nando's Drive Thru#33.3
